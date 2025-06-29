@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/critical_design/static/css/main.d6fc4860.css",
+    "main.js": "/critical_design/static/js/main.9114b898.js",
+    "static/js/453.96453769.chunk.js": "/critical_design/static/js/453.96453769.chunk.js",
+    "index.html": "/critical_design/index.html",
+    "main.d6fc4860.css.map": "/critical_design/static/css/main.d6fc4860.css.map",
+    "main.9114b898.js.map": "/critical_design/static/js/main.9114b898.js.map",
+    "453.96453769.chunk.js.map": "/critical_design/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fc4860.css",
+    "static/js/main.9114b898.js"
+  ]
+}
